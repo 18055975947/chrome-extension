@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a4 as e}from"./chunks/framework.DUbQYUwk.js";const b=JSON.parse('{"title":"Chrome API 概览","description":"","frontmatter":{},"headers":[],"relativePath":"api/index.md","filePath":"api/index.md"}'),n={name:"api/index.md"},l=e("",619),t=[l];function p(h,r,o,d,c,k){return i(),a("div",null,t)}const E=s(n,[["render",p]]);export{b as __pageData,E as default};

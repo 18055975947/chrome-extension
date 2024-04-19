@@ -195,6 +195,10 @@ export const getNavList = () => [
   {
     text: '实用插件推荐',
     link: '/summarize/extension'
+  },
+  {
+    text: '团队',
+    link: '/team/index'
   }
 ]
 

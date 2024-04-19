@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a4 as e}from"./chunks/framework.DUbQYUwk.js";const u=JSON.parse('{"title":"Action","description":"","frontmatter":{},"headers":[],"relativePath":"core/action.md","filePath":"core/action.md"}'),n={name:"core/action.md"},l=e("",171),t=[l];function o(r,h,d,p,c,k){return i(),a("div",null,t)}const b=s(n,[["render",o]]);export{u as __pageData,b as default};

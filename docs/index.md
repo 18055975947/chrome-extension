@@ -26,6 +26,9 @@ hero:
     - theme: alt
       text: 消息通信
       link: /core/message
+    - theme: brand
+      text: 打赏作者
+      link: /team/tea
 
 features:
   - title: 什么是浏览器插件？
@@ -73,7 +76,10 @@ features:
 ---
 
 <style module>
-article img{
+article>img{
   height: 48px;
 }
 </style>
+
+<!--@include: ./team/tea.md-->
+
